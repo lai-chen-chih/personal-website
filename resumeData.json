@@ -1,0 +1,327 @@
+{
+  "main": {
+    "name":"Chen-Chih Lai",
+    "occupation":"PhD student",
+    "description":"",
+    "image":"chen.png",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Email: chenchih at math dot ubc dot ca",
+    "office": "Office: AA 133",
+    "address":{
+      "department":"Department of Mathematics, The University of British Columbia",
+      "street":"1984 Mathematics Road",
+      "city":"Vancouver",
+      "state":"BC",
+      "zip": "V6T 1Z2"
+    },
+    "aboutMe": "I am a fourth-year PhD student at the UBC Math Department studying partial differential equations, with a particular focus on fluid dynamics, under the supervision of Prof. Tai-Peng Tsai and Prof. Juncheng Wei. Previously I worked at National Center for Theoretical Science (NCTS) as a research assistant under the supervision of Prof. Chun-Hsiung Hsia, and was working on reaction-diffusion equations and synchronization problems. Before that, I completed my M.Sc. in Mathematics at National Taiwan University (NTU) under the supervision of Prof. Chun-Hsiung Hsia, and was researching on population estimates for traveling waves of Lotka–Voterra system.",
+    "social":[
+      {
+        "name":"google-scholar",
+        "url":"https://scholar.google.ca/citations?view_op=list_works&hl=en&user=Lj_SRsIAAAAJ",
+        "className":"ai ai-google-scholar-square"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/lai-chen-chih",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"arxiv",
+        "url":"http://arxiv.org/a/lai_c_4",
+        "className":"ai ai-arxiv-square"
+      },
+      {
+        "name":"research gate",
+        "url":"https://www.researchgate.net/profile/Chen-Chih-Lai",
+        "className":"ai ai-researchgate-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"The University of British Columbia, Vancouver, Canada",
+        "degree":"Ph.D. in Mathematics",
+        "graduated":"September 2017 - Present",
+        "description":"",
+        "supervisors": "Supervisors: Prof. Tai-Peng Tsai and Prof. Juncheng Wei",
+        "url":""
+      },
+      {
+        "school":"National Taiwan University, Taipei, Taiwan",
+        "degree":"M.Sc. in Mathematics",
+        "graduated":"September 2014 - June 2016",
+        "description":"Thesis: On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra systems.",
+        "supervisors": "Supervisor: Prof. Chun-Hsiung Hsia",
+        "url":"http://www.airitilibrary.com/Publication/alDetailedMesh?docid=U0001-1907201610415200"
+      }, 
+      {
+        "school":"National Taiwan University, Taipei, Taiwan",
+        "degree":"B.Sc. in Mathematics",
+        "graduated":"September 2010 - June 2014"
+      }
+    ],
+    "research":[
+      {
+        "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two",
+        "publisher":"Communications on Pure and Applied Mathematics",
+        "authors":"Authors: C.-C. Lai, Fanghua Lin, Changyou Wang, Juncheng Wei, and Yifu Zhou",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/1908.10955"
+      },
+      {
+        "company":"Forward Discretely Self-similar Solutions of the MHD Equations and the Viscoelastic Navier–Stokes Equations with Damping",
+        "authors":"Author: C.-C. Lai",
+        "publisher":"Journal of Mathematical Fluid Mechanics",
+        "years":"September 2019",
+        "description":"",
+        "url":"https://link.springer.com/article/10.1007%2Fs00021-019-0443-4"
+      },
+      {
+        "company":"AN N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics",
+        "authors":"Authors: Chiun-Chuan Chen, Li-Chang Hung, and C.-C. Lai",
+        "publisher":"Communications on Pure and Applied Analysis",
+        "years":"January 2019",
+        "description":"",
+        "url":"http://aimsciences.org//article/doi/10.3934/cpaa.2019003"
+      }
+    ],
+
+    "preprints":[
+      {
+        "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, Juncheng Wei, and Yifu Zhou",
+        "years":"submitted, arXiv:2101.08306, 2021",
+        "description":"",
+        "url":"https://arxiv.org/abs/2101.08306"
+      },
+      {
+        "company":"The Green tensor of the nonstationary Stokes system in the half space",
+        "publisher":"arXiv Preprint",
+        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"submitted, arXiv:2011.00134, 2020",
+        "description":"",
+        "url":"https://arxiv.org/abs/2011.00134"
+      },
+      {
+        "company":"New type II finite time blow-up for the energy supercritical heat equation",
+        "publisher":"arXiv Preprint",
+        "authors":"Manuel del Pino, C.-C. Lai, Monica Musso, Juncheng Wei, and Yifu Zhou",
+        "years":"submitted, arXiv:2006.00716, 2020", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2006.00716"
+      }
+    ],
+    "teaching":[
+      {
+        "title":"Instructor, UBC",
+        "course": "MATH 110: Differential Calculus",
+        "url":"",
+        "date":"Janurary - April 2020"
+      },
+      {
+        "title":"Recitation Instructor, UBC",
+        "course": "MATH 180: Differential Calculus with Physical Applications",
+        "url":"",
+        "date":"September - December 2019"
+      },
+      {
+        "title":"Workshop Teaching Assistant, UBC",
+        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences",
+        "url":"",
+        "date":"September - December 2018"
+      },
+      {
+        "title":"Computing Labs Teaching Assistant, UBC",
+        "course":"MATH 152: Linear Systems",
+        "url":"",
+        "date":"Janurary - April 2018"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 1204: Calculus (General Mathematics)(b)",
+        "url":"",
+        "date":"Feburary - June 2015"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 1203: Calculus (General Mathematics)(b)",
+        "url":"",
+        "date":"September 2014 - Janurary 2015"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 3201: Functions of a Complex Variable",
+        "url":"",
+        "date":"September 2014 - Janurary 2015"
+      }
+    ],
+
+    "talks":[
+      {
+        "title":"Differential Equations Seminar",
+        "location":"University of Michigan, Ann Arbor, United States",
+        "url":"http://www.math.lsa.umich.edu/seminars_events/events.php?eventdefid=7&dt_begin=2021-01-01&dt_end=2021-06-30",
+        "date":"Feb 18, 2021"
+      },
+      {
+        "title":"Nonlinear Phenomena in Evolutionary Partial Differential Equations",
+        "location":"National Taiwan University, Taipei, Taiwan",
+        "url":"http://www.ncts.ntu.edu.tw/events_1_detail.php?nid=1635",
+        "date":"Dec 31, 2019 – Jan 8, 2020"
+      },
+      {
+        "title":"Conference on Nonlinear Partial Differential Equations and Applications",
+        "location":"University of Michigan, Ann Arbor, United States",
+        "url":"https://mcaim.math.lsa.umich.edu/events/pde-conference/",
+        "date":"July 9-12, 2019"
+      },
+      {
+        "title":"The 7th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics",
+        "location":"National Cheng Kung University, Tainan, Taiwan",
+        "url":"http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=54",
+        "date":"Feburary 28, 2016"
+      },
+      {
+        "title":"NCTS PDE & Analysis Seminar",
+        "location":"National Taiwan University, Taipei, Taiwan",
+        "url":"http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=54",
+        "date":"November 5, 2015"
+      }
+    ],
+
+    "awards":[
+      {
+        "title":"President's Academic Excellence Initiative PhD Award",
+        "date": "2020-2021",
+        "location":"The University of British Columbia, Vancouver, Canada" 
+      },
+      {
+        "title":"Stanley M Grant Scholarship in Mathematics",
+        "date": "2019",
+        "location":"The University of British Columbia, Vancouver, Canada" 
+      },
+      {
+        "title":"FOUR YEAR FELLOWSHIP For PHD Students (FYF)",
+        "date": "2017-2021",
+        "location":"The University of British Columbia, Vancouver, Canada"
+      },
+      {
+        "title":"FOUR YEAR DOCTORAL FELLOWSHIP (4YF)",
+        "date": "2017-2021",
+        "location":"The University of British Columbia, Vancouver, Canada"
+      },
+      {
+        "title":"TMS Thesis Award",
+        "date": "2016",
+        "location":"The Mathematical Society of the Republic of China, Taiwan" 
+      },
+      {
+        "title":"Dean's Award",
+        "date": "2016",
+        "location":"National Taiwan University, Taipei, Taiwan" 
+      }
+    ],
+
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MathSciNet",
+        "image":"mathscinet.jpg",
+        "url":"https://mathscinet.ams.org/mathscinet/"
+      },
+      {
+        "title":"Recent Preprints on PDE",
+        "image":"arxiv.jpg",
+        "url":"https://arxiv.org/list/math.AP/recent"
+      },
+      {
+        "title":"Calculus of Variations and Geometric Measure Theory",
+        "image":"cvgmt.jpg",
+        "url":"http://cvgmt.sns.it"
+      },
+      {
+        "title": "Math Seminar",
+        "image": "researchseminars.jpg",
+        "url": "https://researchseminars.org"
+      },
+      {
+        "title":"Diff. Geom.-Math. Phys.-PDE Seminar at UBC",
+        "image":"DG-MP-PDE.jpg",
+        "url":"https://www.math.ubc.ca/Dept/Events/index.shtml?period=future&series=43"
+      },
+      {
+        "title":"UBC Math Department",
+        "image":"UBCMATH.jpg",
+        "url":"https://www.math.ubc.ca/"
+      },
+      {
+        "title":"NCTS",
+        "image":"NCTS.jpg",
+        "url":"http://www.ncts.ntu.edu.tw"
+      },
+      {
+        "title":"NTU Math Department",
+        "image":"NTUMATH.jpg",
+        "url":"www.math.ntu.edu.tw"
+      },
+      {
+        "title": "Math Genealogy",
+        "image": "gene.jpg",
+        "url": "https://genealogy.math.ndsu.nodak.edu/"
+      },
+      {
+        "title": "The MacTutor History of Mathematics archive",
+        "image": "MacTutor.jpg",
+        "url": "http://mathshistory.st-andrews.ac.uk"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
