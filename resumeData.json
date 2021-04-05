@@ -22,19 +22,24 @@
         "className":"ai ai-google-scholar-square"
       },
       {
-        "name":"github",
-        "url":"http://github.com/lai-chen-chih",
-        "className":"fa fa-github"
-      },
-      {
         "name":"arxiv",
         "url":"http://arxiv.org/a/lai_c_4",
         "className":"ai ai-arxiv-square"
       },
       {
+        "name":"orcid",
+        "url":"https://orcid.org/0000-0003-3042-9193",
+        "className":"ai ai-orcid-square"
+      },
+      {
         "name":"research gate",
         "url":"https://www.researchgate.net/profile/Chen-Chih-Lai",
         "className":"ai ai-researchgate-square"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/lai-chen-chih",
+        "className":"fa fa-github"
       }
     ]
   },
