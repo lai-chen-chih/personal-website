@@ -20,16 +20,15 @@
         "name":"google-scholar",
         "url":"https://scholar.google.ca/citations?view_op=list_works&hl=en&user=Lj_SRsIAAAAJ",
         "className":"ai ai-google-scholar-square"
+      },{
+        "name":"orcid",
+        "url":"https://orcid.org/0000-0003-3042-9193",
+        "className":"ai ai-orcid-square"
       },
       {
         "name":"arxiv",
         "url":"http://arxiv.org/a/lai_c_4",
         "className":"ai ai-arxiv-square"
-      },
-      {
-        "name":"orcid",
-        "url":"https://orcid.org/0000-0003-3042-9193",
-        "className":"ai ai-orcid-square"
       },
       {
         "name":"research gate",
@@ -50,7 +49,6 @@
         "school":"The University of British Columbia, Vancouver, Canada",
         "degree":"Ph.D. in Mathematics",
         "graduated":"September 2017 - Present",
-        "description":"",
         "supervisors": "Supervisors: Prof. Tai-Peng Tsai and Prof. Juncheng Wei",
         "url":""
       },
@@ -58,9 +56,14 @@
         "school":"National Taiwan University, Taipei, Taiwan",
         "degree":"M.Sc. in Mathematics",
         "graduated":"September 2014 - June 2016",
-        "description":"Thesis: On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra systems.",
-        "supervisors": "Supervisor: Prof. Chun-Hsiung Hsia",
-        "url":"http://www.airitilibrary.com/Publication/alDetailedMesh?docid=U0001-1907201610415200"
+        "description":"On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra system",
+        "url":"https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1907201610415200",
+        "supervisors": "Supervisor: Prof. Chun-Hsiung Hsia"
+      }, 
+      {
+        "school":"National Taiwan University, Taipei, Taiwan",
+        "degree":"B.Sc. in Mathematics",
+        "graduated":"September 2010 - June 2014"
       }
     ],
     "research":[
@@ -81,7 +84,7 @@
         "url":"https://link.springer.com/article/10.1007%2Fs00021-019-0443-4"
       },
       {
-        "company":"AN N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics",
+        "company":"An N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics",
         "authors":"Authors: Chiun-Chuan Chen, Li-Chang Hung, and C.-C. Lai",
         "publisher":"Communications on Pure and Applied Analysis",
         "years":"January 2019",
@@ -89,6 +92,7 @@
         "url":"http://aimsciences.org//article/doi/10.3934/cpaa.2019003"
       }
     ],
+
     "preprints":[
       {
         "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
@@ -159,7 +163,79 @@
         "date":"September 2014 - Janurary 2015"
       }
     ],
+    "teaching":[
+      {
+        "title":"Instructor, UBC",
+        "course": "MATH 110: Differential Calculus",
+        "url":"",
+        "date":"Janurary - April 2020"
+      },
+      {
+        "title":"Recitation Instructor, UBC",
+        "course": "MATH 180: Differential Calculus with Physical Applications",
+        "url":"",
+        "date":"September - December 2019"
+      },
+      {
+        "title":"Workshop Teaching Assistant, UBC",
+        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences",
+        "url":"",
+        "date":"September - December 2018"
+      },
+      {
+        "title":"Computing Labs Teaching Assistant, UBC",
+        "course":"MATH 152: Linear Systems",
+        "url":"",
+        "date":"Janurary - April 2018"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 1204: Calculus (General Mathematics)(b)",
+        "url":"",
+        "date":"Feburary - June 2015"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 1203: Calculus (General Mathematics)(b)",
+        "url":"",
+        "date":"September 2014 - Janurary 2015"
+      },
+      {
+        "title":"Recitation Instructor, NTU",
+        "course":"MATH 3201: Functions of a Complex Variable",
+        "url":"",
+        "date":"September 2014 - Janurary 2015"
+      }
+    ],
+    "employment":[
+      {
+        "title":"Research Assistant",
+        "course": "National Center for Theortical Sciences, Taipei, Taiwan",
+        "url":"",
+        "date":"August 2016 - July 2017"
+      },
+      {
+        "title":"Assistant Manager, The Lecture Series of the Popularization of Mathematics",
+        "course": "Ministry of Science and Technology, Taipei, Taiwan",
+        "url":"",
+        "date":"August 2015 - July 2016"
+      }
+    ],
     "talks":[
+      {
+        "title":"Conference on Nonlinear Partial Differential Equations and Applications",
+        "location":"University of Michigan, Ann Arbor, United States",
+        "url":"https://mcaim.math.lsa.umich.edu/events/pde-conference/",
+        "date":"July 9-12, 2019"
+      },
+      {
+        "title":"The 7th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics",
+        "location":"National Cheng Kung University, Tainan, Taiwan",
+        "url":"http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=54",
+        "date":"Feburary 28, 2016"
+      }
+    ],
+    "present":[
       {
         "title":"Differential Equations Seminar",
         "location":"University of Michigan, Ann Arbor, United States",
@@ -173,25 +249,15 @@
         "date":"Dec 31, 2019 – Jan 8, 2020"
       },
       {
-        "title":"Conference on Nonlinear Partial Differential Equations and Applications",
-        "location":"University of Michigan, Ann Arbor, United States",
-        "url":"https://mcaim.math.lsa.umich.edu/events/pde-conference/",
-        "date":"July 9-12, 2019"
-      },
-      {
         "title":"Student Colloquium",
         "location":"National Taiwan University, Taipei, Taiwan",
+        "url":"",
         "date":"April 15, 2016"
-      },
-      {
-        "title":"The 7th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics",
-        "location":"National Cheng Kung University, Tainan, Taiwan",
-        "url":"http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=54",
-        "date":"Feburary 28, 2016"
       },
       {
         "title":"NCTS PDE & Analysis Seminar",
         "location":"National Taiwan University, Taipei, Taiwan",
+        "url":"",
         "date":"November 5, 2015"
       }
     ],
@@ -207,12 +273,12 @@
         "location":"The University of British Columbia, Vancouver, Canada" 
       },
       {
-        "title":"FOUR YEAR FELLOWSHIP For PHD Students (FYF)",
+        "title":"Four Year Fellowship For PHD Students (FYF)",
         "date": "2017-2021",
         "location":"The University of British Columbia, Vancouver, Canada"
       },
       {
-        "title":"FOUR YEAR DOCTORAL FELLOWSHIP (4YF)",
+        "title":"Four Year Doctoral Fellowship (4YF)",
         "date": "2017-2021",
         "location":"The University of British Columbia, Vancouver, Canada"
       },
@@ -227,6 +293,7 @@
         "location":"National Taiwan University, Taipei, Taiwan" 
       }
     ],
+
     "skills":[
       {
         "name":"Git",
