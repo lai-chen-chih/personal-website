@@ -19,6 +19,11 @@
       {
         "name":"google-scholar",
         "url":"https://scholar.google.ca/citations?view_op=list_works&hl=en&user=Lj_SRsIAAAAJ",
+        "className":"ai ai-mathscinet-square"
+      },
+      {
+        "name":"google-scholar",
+        "url":"https://scholar.google.ca/citations?view_op=list_works&hl=en&user=Lj_SRsIAAAAJ",
         "className":"ai ai-google-scholar-square"
       },
       {
