@@ -49,8 +49,10 @@
         "school":"The University of British Columbia, Vancouver, Canada",
         "degree":"Ph.D. in Mathematics",
         "graduated":"September 2017 - Present",
-        "supervisors": "Supervisors: Prof. Tai-Peng Tsai and Prof. Juncheng Wei",
-        "url":""
+        "supervisors": "Prof. Tai-Peng Tsai",
+        "supervisorUrl": "http://www.math.ubc.ca/~ttsai/",
+        "supervisor2": "Prof. Juncheng Wei",
+        "supervisorUrl2": "https://www.math.ubc.ca/~jcwei/"
       },
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -58,7 +60,8 @@
         "graduated":"September 2014 - June 2016",
         "description":"On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra system",
         "url":"https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1907201610415200",
-        "supervisors": "Supervisor: Prof. Chun-Hsiung Hsia"
+        "supervisors": "Prof. Chun-Hsiung Hsia",
+        "supervisorUrl": "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21478"
       }, 
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -251,13 +254,11 @@
       {
         "title":"Student Colloquium",
         "location":"National Taiwan University, Taipei, Taiwan",
-        "url":"",
         "date":"April 15, 2016"
       },
       {
         "title":"NCTS PDE & Analysis Seminar",
         "location":"National Taiwan University, Taipei, Taiwan",
-        "url":"",
         "date":"November 5, 2015"
       }
     ],
