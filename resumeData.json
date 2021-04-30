@@ -48,7 +48,7 @@
       {
         "school":"The University of British Columbia, Vancouver, Canada",
         "degree":"Ph.D. in Mathematics",
-        "graduated":"September 2017 - Present",
+        "graduated":"Sept 2017 - Present",
         "supervisors": "Prof. Tai-Peng Tsai",
         "supervisorUrl": "http://www.math.ubc.ca/~ttsai/",
         "supervisor2": "Prof. Juncheng Wei",
@@ -57,7 +57,7 @@
       {
         "school":"National Taiwan University, Taipei, Taiwan",
         "degree":"M.Sc. in Mathematics",
-        "graduated":"September 2014 - June 2016",
+        "graduated":"Sept 2014 - June 2016",
         "description":"On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra system",
         "url":"https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1907201610415200",
         "supervisors": "Prof. Chun-Hsiung Hsia",
@@ -66,31 +66,31 @@
       {
         "school":"National Taiwan University, Taipei, Taiwan",
         "degree":"B.Sc. in Mathematics",
-        "graduated":"September 2010 - June 2014"
+        "graduated":"Sept 2010 - June 2014"
       }
     ],
     "research":[
       {
         "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two",
-        "publisher":"Communications on Pure and Applied Mathematics",
+        "publisher":"Comm. Pure Appl. Math.",
         "authors":"Authors: C.-C. Lai, Fanghua Lin, Changyou Wang, Juncheng Wei, and Yifu Zhou",
         "years":"to appear",
         "description":"",
-        "url":"https://arxiv.org/abs/1908.10955"
+        "url":"https://onlinelibrary.wiley.com/doi/10.1002/cpa.21993"
       },
       {
         "company":"Forward Discretely Self-similar Solutions of the MHD Equations and the Viscoelastic Navier–Stokes Equations with Damping",
         "authors":"Author: C.-C. Lai",
-        "publisher":"Journal of Mathematical Fluid Mechanics",
-        "years":"September 2019",
+        "publisher":"J. Math. Fluid Mech.",
+        "years":"21 (2019), no. 3, Art. 38, 28 pp.",
         "description":"",
         "url":"https://link.springer.com/article/10.1007%2Fs00021-019-0443-4"
       },
       {
         "company":"An N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics",
         "authors":"Authors: Chiun-Chuan Chen, Li-Chang Hung, and C.-C. Lai",
-        "publisher":"Communications on Pure and Applied Analysis",
-        "years":"January 2019",
+        "publisher":"Commun. Pure Appl. Anal.",
+        "years":"18 (2019), no. 1, 33–50.",
         "description":"",
         "url":"http://aimsciences.org//article/doi/10.3934/cpaa.2019003"
       }
@@ -127,87 +127,43 @@
         "title":"Instructor, UBC",
         "course": "MATH 110: Differential Calculus",
         "url":"",
-        "date":"Janurary - April 2020"
+        "date":"Term 2, 2019"
       },
       {
         "title":"Recitation Instructor, UBC",
         "course": "MATH 180: Differential Calculus with Physical Applications",
         "url":"",
-        "date":"September - December 2019"
+        "date":"Term 1, 2019"
       },
       {
         "title":"Workshop Teaching Assistant, UBC",
         "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences",
         "url":"",
-        "date":"September - December 2018"
+        "date":"Term 1, 2018"
       },
       {
         "title":"Computing Labs Teaching Assistant, UBC",
         "course":"MATH 152: Linear Systems",
         "url":"",
-        "date":"Janurary - April 2018"
+        "date":"Term 2, 2017"
       },
       {
         "title":"Recitation Instructor, NTU",
         "course":"MATH 1204: Calculus (General Mathematics)(b)",
         "url":"",
-        "date":"Feburary - June 2015"
+        "date":"Term 2, 2014"
       },
       {
         "title":"Recitation Instructor, NTU",
         "course":"MATH 1203: Calculus (General Mathematics)(b)",
         "url":"",
-        "date":"September 2014 - Janurary 2015"
+        "date":"Term 1, 2014"
       },
       {
         "title":"Recitation Instructor, NTU",
         "course":"MATH 3201: Functions of a Complex Variable",
         "url":"",
-        "date":"September 2014 - Janurary 2015"
-      }
-    ],
-    "teaching":[
-      {
-        "title":"Instructor, UBC",
-        "course": "MATH 110: Differential Calculus",
-        "url":"",
-        "date":"Janurary - April 2020"
-      },
-      {
-        "title":"Recitation Instructor, UBC",
-        "course": "MATH 180: Differential Calculus with Physical Applications",
-        "url":"",
-        "date":"September - December 2019"
-      },
-      {
-        "title":"Workshop Teaching Assistant, UBC",
-        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences",
-        "url":"",
-        "date":"September - December 2018"
-      },
-      {
-        "title":"Computing Labs Teaching Assistant, UBC",
-        "course":"MATH 152: Linear Systems",
-        "url":"",
-        "date":"Janurary - April 2018"
-      },
-      {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 1204: Calculus (General Mathematics)(b)",
-        "url":"",
-        "date":"Feburary - June 2015"
-      },
-      {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 1203: Calculus (General Mathematics)(b)",
-        "url":"",
-        "date":"September 2014 - Janurary 2015"
-      },
-      {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 3201: Functions of a Complex Variable",
-        "url":"",
-        "date":"September 2014 - Janurary 2015"
+        "date":"Term 1, 2014"
       }
     ],
     "employment":[
@@ -215,13 +171,13 @@
         "title":"Research Assistant",
         "course": "National Center for Theortical Sciences, Taipei, Taiwan",
         "url":"",
-        "date":"August 2016 - July 2017"
+        "date":"Aug 2016 - July 2017"
       },
       {
         "title":"Assistant Manager, The Lecture Series of the Popularization of Mathematics",
         "course": "Ministry of Science and Technology, Taipei, Taiwan",
         "url":"",
-        "date":"August 2015 - July 2016"
+        "date":"Aug 2015 - July 2016"
       }
     ],
     "talks":[
@@ -235,7 +191,7 @@
         "title":"The 7th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics",
         "location":"National Cheng Kung University, Tainan, Taiwan",
         "url":"http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=54",
-        "date":"Feburary 28, 2016"
+        "date":"Feb 28, 2016"
       }
     ],
     "present":[
@@ -254,12 +210,12 @@
       {
         "title":"Student Colloquium",
         "location":"National Taiwan University, Taipei, Taiwan",
-        "date":"April 15, 2016"
+        "date":"Apr 15, 2016"
       },
       {
         "title":"NCTS PDE & Analysis Seminar",
         "location":"National Taiwan University, Taipei, Taiwan",
-        "date":"November 5, 2015"
+        "date":"Nov 5, 2015"
       }
     ],
     "awards":[
