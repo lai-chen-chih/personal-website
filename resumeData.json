@@ -15,7 +15,7 @@
       "state":"BC",
       "zip": "V6T 1Z2"
     },
-    "aboutMe": "I am a fourth-year PhD candidate at the UBC Math Department studying partial differential equations, with a particular focus on fluid dynamics, under the supervision of Prof. Tai-Peng Tsai and Prof. Juncheng Wei. Previously I worked at National Center for Theoretical Science (NCTS) as a research assistant under the supervision of Prof. Chun-Hsiung Hsia, and was working on reaction-diffusion equations and synchronization problems. Before that, I completed my M.Sc. in Mathematics at National Taiwan University (NTU) under the supervision of Prof. Chun-Hsiung Hsia, and was researching on population estimates for traveling waves of Lotka–Voterra system.",
+    "aboutMe": "I am a fourth-year PhD student at the UBC Math Department studying partial differential equations, with a particular focus on fluid dynamics, under the supervision of Prof. Tai-Peng Tsai and Prof. Juncheng Wei. Previously I worked at National Center for Theoretical Science (NCTS) as a research assistant under the supervision of Prof. Chun-Hsiung Hsia, and was working on reaction-diffusion equations and synchronization problems. Before that, I completed my M.Sc. in Mathematics at National Taiwan University (NTU) under the supervision of Prof. Chun-Hsiung Hsia, and was researching on population estimates for traveling waves of Lotka–Voterra system.",
     "social":[
       {
         "name":"google-scholar",
@@ -50,6 +50,7 @@
         "school":"The University of British Columbia, Vancouver, Canada",
         "degree":"Ph.D. in Mathematics",
         "graduated":"Sept 2017 - Present",
+        "description":"Study and analysis of some incompressible fluid PDEs: the Navier–Stokes equations in the half space, the MHD and the viscoelastic Navier–Stokes equations, and coupled Keller–Segel-fluid models",
         "supervisors": "Tai-Peng Tsai",
         "supervisorUrl": "http://www.math.ubc.ca/~ttsai/",
         "supervisor2": "Juncheng Wei",
