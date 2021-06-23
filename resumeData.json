@@ -73,6 +73,14 @@
     ],
     "research":[
       {
+        "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
+        "publisher":"Indiana Univ. Math. J.",
+        "authors":"Authors: C.-C. Lai, Juncheng Wei, and Yifu Zhou",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2101.08306"
+      },
+      {
         "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two",
         "publisher":"Comm. Pure Appl. Math.",
         "authors":"Authors: C.-C. Lai, Fanghua Lin, Changyou Wang, Juncheng Wei, and Yifu Zhou",
@@ -99,14 +107,6 @@
     ],
 
     "preprints":[
-      {
-        "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
-        "publisher":"arXiv Preprint",
-        "authors":"C.-C. Lai, Juncheng Wei, and Yifu Zhou",
-        "years":"submitted, arXiv:2101.08306, 2021",
-        "description":"",
-        "url":"https://arxiv.org/abs/2101.08306"
-      },
       {
         "company":"The Green tensor of the nonstationary Stokes system in the half space",
         "publisher":"arXiv Preprint",
