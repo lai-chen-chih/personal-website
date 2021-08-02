@@ -45,11 +45,31 @@
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "employment":[
+      {
+        "title":"Postdoctoral Research Scientist",
+        "course": "Columbia University, New York, United States",
+        "url":"",
+        "date":"Aug 2021 - present"
+      },
+      {
+        "title":"Research Assistant",
+        "course": "National Center for Theortical Sciences, Taipei, Taiwan",
+        "url":"",
+        "date":"Aug 2016 - July 2017"
+      },
+      {
+        "title":"Assistant Manager, The Lecture Series of the Popularization of Mathematics",
+        "course": "Ministry of Science and Technology, Taipei, Taiwan",
+        "url":"",
+        "date":"Aug 2015 - July 2016"
+      }
+    ],
     "education":[
       {
         "school":"The University of British Columbia, Vancouver, Canada",
         "degree":"Ph.D. in Mathematics",
-        "graduated":"Sept 2017 - Present",
+        "graduated":"Sept 2017 - July 2021",
         "description":"Study and analysis of some incompressible fluid PDEs: the Navier–Stokes equations in the half space, the MHD and the viscoelastic Navier–Stokes equations, and coupled Keller–Segel-fluid models",
         "url":"https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0400482",
         "supervisors": "Tai-Peng Tsai",
@@ -175,20 +195,6 @@
         "course":"MATH 3201: Functions of a Complex Variable",
         "url":"",
         "date":"Term 1, 2014"
-      }
-    ],
-    "employment":[
-      {
-        "title":"Research Assistant",
-        "course": "National Center for Theortical Sciences, Taipei, Taiwan",
-        "url":"",
-        "date":"Aug 2016 - July 2017"
-      },
-      {
-        "title":"Assistant Manager, The Lecture Series of the Popularization of Mathematics",
-        "course": "Ministry of Science and Technology, Taipei, Taiwan",
-        "url":"",
-        "date":"Aug 2015 - July 2016"
       }
     ],
     "talks":[
