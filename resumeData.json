@@ -2,20 +2,20 @@
   "main": {
     "name":"Chen-Chih Lai",
     "chname":"賴承志",
-    "occupation":"PhD student",
+    "occupation":"Postdoctoral Research Scientist",
     "description":"",
     "image":"chen.png",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Email: chenchih at math dot ubc dot ca",
-    "office": "Office: AA 133",
+    "email": "Email: cl4205 at columbia dot edu",
+    "office": "Office: RM 307A",
     "address":{
-      "department":"Department of Mathematics, The University of British Columbia",
-      "street":"1984 Mathematics Road",
-      "city":"Vancouver",
-      "state":"BC",
-      "zip": "V6T 1Z2"
+      "department":"Department of Mathematics, Columbia University",
+      "street":"2990 Broadway",
+      "city":"New York",
+      "state":"NY",
+      "zip": "10027"
     },
-    "aboutMe": "I am a fourth-year PhD student at the UBC Math Department studying partial differential equations, with a particular focus on fluid dynamics, under the supervision of Prof. Tai-Peng Tsai and Prof. Juncheng Wei. Previously I worked at National Center for Theoretical Science (NCTS) as a research assistant under the supervision of Prof. Chun-Hsiung Hsia, and was working on reaction-diffusion equations and synchronization problems. Before that, I completed my M.Sc. in Mathematics at National Taiwan University (NTU) under the supervision of Prof. Chun-Hsiung Hsia, and was researching on population estimates for traveling waves of Lotka–Voterra system.",
+    "aboutMe": "",
     "social":[
       {
         "name":"google-scholar",
