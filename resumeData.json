@@ -155,46 +155,40 @@
     ],
     "teaching":[
       {
-        "title":"Instructor, UBC",
-        "course": "MATH 110: Differential Calculus",
+        "title":"Instructor",
+        "course": "MATH 110: Differential Calculus at UBC",
         "url":"",
-        "date":"Term 2, 2019"
+        "date":"Winter 2, 2019"
       },
       {
-        "title":"Recitation Instructor, UBC",
-        "course": "MATH 180: Differential Calculus with Physical Applications",
+        "title":"Recitation Instructor",
+        "course": "MATH 180: Differential Calculus with Physical Applications at UBC",
         "url":"",
-        "date":"Term 1, 2019"
+        "date":"Winter 1, 2019"
       },
       {
-        "title":"Workshop Teaching Assistant, UBC",
-        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences",
+        "title":"Workshop Leader",
+        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences at UBC",
         "url":"",
-        "date":"Term 1, 2018"
+        "date":"Winter 1, 2018"
       },
       {
-        "title":"Computing Labs Teaching Assistant, UBC",
-        "course":"MATH 152: Linear Systems",
+        "title":"Computing Labs Teaching Assistant",
+        "course":"MATH 152: Linear Systems at UBC",
         "url":"",
-        "date":"Term 2, 2017"
+        "date":"Winter 2, 2017"
       },
       {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 1204: Calculus (General Mathematics)(b)",
+        "title":"Recitation Instructor",
+        "course":"MATH 1203-1204: Calculus (General Mathematics)(b) at NTU",
         "url":"",
-        "date":"Term 2, 2014"
+        "date":"Fall 2014-Spring 2015"
       },
       {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 1203: Calculus (General Mathematics)(b)",
+        "title":"Recitation Instructor",
+        "course":"MATH 3201: Functions of a Complex Variable at NTU",
         "url":"",
-        "date":"Term 1, 2014"
-      },
-      {
-        "title":"Recitation Instructor, NTU",
-        "course":"MATH 3201: Functions of a Complex Variable",
-        "url":"",
-        "date":"Term 1, 2014"
+        "date":"Fall 2014"
       }
     ],
     "talks":[
