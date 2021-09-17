@@ -207,8 +207,14 @@
     ],
     "present":[
       {
+        "title":"Geometry & Analysis Seminar",
+        "location":"Columbia University, New York, United States",
+        "url":"https://www.math.columbia.edu/~johne/seminar_geometry_analysis.html",
+        "date":"Sep 17, 2021"
+      },
+      {
         "title":"Differential Equations Seminar",
-        "location":"University of Michigan, Ann Arbor, United States",
+        "location":"University of Michigan, online",
         "url":"http://www.math.lsa.umich.edu/seminars_events/events.php?eventdefid=7&dt_begin=2021-01-01&dt_end=2021-06-30",
         "date":"Feb 18, 2021"
       },
