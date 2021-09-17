@@ -156,6 +156,12 @@
     "teaching":[
       {
         "title":"Instructor",
+        "course": "MATH UN1201: Calculus III at Columbia U",
+        "url":"",
+        "date":"Fall, 2021"
+      },
+      {
+        "title":"Instructor",
         "course": "MATH 110: Differential Calculus at UBC",
         "url":"",
         "date":"Winter 2, 2019"
