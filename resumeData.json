@@ -205,6 +205,12 @@
     ],
     "talks":[
       {
+        "title":"AMS Contributed Paper Session on Partial Differential Equations",
+        "location":"Joint Mathematics Meetings, online",
+        "url":"https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_wednesday.html#2268:CP2",
+        "date":"April 6-9, 2022"
+      },
+      {
         "title":"Conference on Nonlinear Partial Differential Equations and Applications",
         "location":"University of Michigan, Ann Arbor, United States",
         "url":"https://mcaim.math.lsa.umich.edu/events/pde-conference/",
