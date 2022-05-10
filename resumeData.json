@@ -94,6 +94,14 @@
     ],
     "research":[
       {
+        "company":"Finite energy Navier–Stokes flows with unbounded gradients induced by localized flux in the half-space",
+        "publisher":"Trans. Amer. Math. Soc.",
+        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2107.00810"
+      },
+      {
         "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
         "publisher":"Indiana Univ. Math. J.",
         "authors":"Authors: C.-C. Lai, Juncheng Wei, and Yifu Zhou",
@@ -128,14 +136,6 @@
     ],
 
     "preprints":[
-      {
-        "company":"Finite energy Navier–Stokes flows with unbounded gradients induced by localized flux in the half-space",
-        "publisher":"arXiv Preprint",
-        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"submitted, arXiv:2107.00810, 2021",
-        "description":"",
-        "url":"https://arxiv.org/abs/2107.00810"
-      },
       {
         "company":"The Green tensor of the nonstationary Stokes system in the half space",
         "publisher":"arXiv Preprint",
