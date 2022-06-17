@@ -153,6 +153,38 @@
         "url":"https://arxiv.org/abs/2006.00716"
       }
     ],
+    "awards":[
+      {
+        "title":"President's Academic Excellence Initiative PhD Award",
+        "date": "2020-2021",
+        "location":"The University of British Columbia, Vancouver, Canada" 
+      },
+      {
+        "title":"Stanley M Grant Scholarship in Mathematics",
+        "date": "2019",
+        "location":"The University of British Columbia, Vancouver, Canada" 
+      },
+      {
+        "title":"Four Year Fellowship For PHD Students (FYF)",
+        "date": "2017-2021",
+        "location":"The University of British Columbia, Vancouver, Canada"
+      },
+      {
+        "title":"Four Year Doctoral Fellowship (4YF)",
+        "date": "2017-2021",
+        "location":"The University of British Columbia, Vancouver, Canada"
+      },
+      {
+        "title":"TMS Thesis Award",
+        "date": "2016",
+        "location":"The Mathematical Society of the Republic of China, Taiwan" 
+      },
+      {
+        "title":"Dean's Award",
+        "date": "2016",
+        "location":"National Taiwan University, Taipei, Taiwan" 
+      }
+    ],
     "teaching":[
       {
         "title":"Instructor",
@@ -257,38 +289,6 @@
         "title":"NCTS PDE & Analysis Seminar",
         "location":"National Taiwan University, Taipei, Taiwan",
         "date":"Nov 5, 2015"
-      }
-    ],
-    "awards":[
-      {
-        "title":"President's Academic Excellence Initiative PhD Award",
-        "date": "2020-2021",
-        "location":"The University of British Columbia, Vancouver, Canada" 
-      },
-      {
-        "title":"Stanley M Grant Scholarship in Mathematics",
-        "date": "2019",
-        "location":"The University of British Columbia, Vancouver, Canada" 
-      },
-      {
-        "title":"Four Year Fellowship For PHD Students (FYF)",
-        "date": "2017-2021",
-        "location":"The University of British Columbia, Vancouver, Canada"
-      },
-      {
-        "title":"Four Year Doctoral Fellowship (4YF)",
-        "date": "2017-2021",
-        "location":"The University of British Columbia, Vancouver, Canada"
-      },
-      {
-        "title":"TMS Thesis Award",
-        "date": "2016",
-        "location":"The Mathematical Society of the Republic of China, Taiwan" 
-      },
-      {
-        "title":"Dean's Award",
-        "date": "2016",
-        "location":"National Taiwan University, Taipei, Taiwan" 
       }
     ],
 
