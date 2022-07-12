@@ -137,6 +137,22 @@
 
     "preprints":[
       {
+        "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
+        "publisher":"arXiv Preprint",
+        "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"submitted, arXiv:2207.04298, 2022",
+        "description":"",
+        "url":"https://arxiv.org/abs/2207.04298"
+      },
+      {
+        "company":"Free boundary problem for a gas bubble in a liquid, and asymptotic stability of the manifold of spherically symmetric equilibria",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"arXiv:2207.04079, 2022",
+        "description":"",
+        "url":"https://arxiv.org/abs/2207.04079"
+      },
+      {
         "company":"The Green tensor of the nonstationary Stokes system in the half space",
         "publisher":"arXiv Preprint",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
