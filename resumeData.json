@@ -204,6 +204,12 @@
     "teaching":[
       {
         "title":"Instructor",
+        "course": "MATH UN2500: Analysis and Optimization at Columbia U",
+        "url":"",
+        "date":"Fall, 2022"
+      },
+      {
+        "title":"Instructor",
         "course": "MATH UN1201: Calculus III at Columbia U",
         "url":"",
         "date":"Spring, 2022"
@@ -272,6 +278,12 @@
       }
     ],
     "present":[
+      {
+        "title":"NCTS Nonlinear PDE and Analysis Seminar",
+        "location":"National Center for Theoretical Sciences, Taipei, Taiwan",
+        "url":"https://ncts.ntu.edu.tw/events_1_detail.php?nid=2301",
+        "date":"Aug 11, 2022"
+      },
       {
         "title":"Analysis & PDE Seminar",
         "location":"Johns Hopkins University, online",
