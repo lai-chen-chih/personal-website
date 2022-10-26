@@ -259,8 +259,14 @@
     ],
     "talks":[
       {
+        "title":"Special Session on Recent Advances in the Theory of Fluid Dynamics, AMS Fall Western Sectional Meeting",
+        "location":"University of Utah, Salt Lake City, UT, United States",
+        "url":"https://www.ams.org/meetings/sectional/2295_program_ss17.html",
+        "date":"Oct 22, 2022"
+      },
+      {
         "title":"Special Session on Elliptic and Parabolic PDEs in Complex Fluid and Free Boundary Problems, AMS Fall Central Sectional Meeting",
-        "location":"University of Texas at El Paso, TX, United States",
+        "location":"University of Texas at El Paso, El Paso, TX, United States",
         "url":"https://www.ams.org/meetings/sectional/2297_program_ss6.html#title",
         "date":"Sep 17, 2022"
       },
@@ -268,7 +274,7 @@
         "title":"AMS Contributed Paper Session on Partial Differential Equations, Joint Mathematics Meetings",
         "location":"Seattle, online",
         "url":"https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_wednesday.html#2268:CP2",
-        "date":"Apr 6 – 9, 2022"
+        "date":"Apr 6, 2022"
       },
       {
         "title":"Conference on Nonlinear Partial Differential Equations and Applications",
