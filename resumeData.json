@@ -291,6 +291,11 @@
     ],
     "present":[
       {
+        "title":"Waves Working Group",
+        "location":"Columbia University, New York, United States",
+        "date":"Oct 12 and 26, Nov 16, 2021"
+      },
+      {
         "title":"NCTS Nonlinear PDE and Analysis Seminar",
         "location":"National Center for Theoretical Sciences, Taipei, Taiwan",
         "url":"https://ncts.ntu.edu.tw/events_1_detail.php?nid=2301",
@@ -301,6 +306,11 @@
         "location":"Johns Hopkins University, online",
         "url":"https://math.jhu.edu/analysis.html",
         "date":"Nov 15, 2021"
+      },
+      {
+        "title":"Waves Working Group",
+        "location":"Columbia University, New York, United States",
+        "date":"Oct 27 and Nov 3, 2021"
       },
       {
         "title":"Geometry & Analysis Seminar",
