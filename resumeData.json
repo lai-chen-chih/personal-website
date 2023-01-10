@@ -204,6 +204,12 @@
     "teaching":[
       {
         "title":"Instructor",
+        "course": "MATH UN1201: Calculus III at Columbia U",
+        "url":"",
+        "date":"Spring, 2023"
+      },
+      {
+        "title":"Instructor",
         "course": "MATH UN2500: Analysis and Optimization at Columbia U",
         "url":"",
         "date":"Fall, 2022"
@@ -293,7 +299,7 @@
       {
         "title":"Waves Working Group",
         "location":"Columbia University, New York, United States",
-        "date":"Oct 12 and 26, Nov 16, 2021"
+        "date":"Oct 12 and 26, Nov 16, 2022"
       },
       {
         "title":"NCTS Nonlinear PDE and Analysis Seminar",
