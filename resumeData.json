@@ -94,6 +94,14 @@
     ],
     "research":[
       {
+        "company":"The Green tensor of the nonstationary Stokes system in the half space",
+        "publisher":"Commun. Math. Phys.",
+        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"to appear",
+        "description":"",
+        "url":"https://link.springer.com/article/10.1007/s00220-022-04623-3"
+      },
+      {
         "company":"Finite energy Navier–Stokes flows with unbounded gradients induced by localized flux in the half-space",
         "publisher":"Trans. Amer. Math. Soc.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
@@ -151,14 +159,6 @@
         "years":"submitted, arXiv:2207.04079, 2022",
         "description":"",
         "url":"https://arxiv.org/abs/2207.04079"
-      },
-      {
-        "company":"The Green tensor of the nonstationary Stokes system in the half space",
-        "publisher":"arXiv Preprint",
-        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"submitted, arXiv:2011.00134, 2020",
-        "description":"",
-        "url":"https://arxiv.org/abs/2011.00134"
       },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
