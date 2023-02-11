@@ -283,8 +283,8 @@
         "date":"Apr 6, 2022"
       },
       {
-        "title":"Conference on Nonlinear Partial Differential Equations and Applications",
-        "location":"University of Michigan, Ann Arbor, United States",
+        "title":"Poster Session, Conference on Nonlinear Partial Differential Equations and Applications",
+        "location":"University of Michigan, Ann Arbor, MI, United States",
         "url":"https://mcaim.math.lsa.umich.edu/events/pde-conference/",
         "date":"Jul 9 – 12, 2019"
       },
@@ -297,8 +297,14 @@
     ],
     "present":[
       {
+        "title":"Drexel PDE/Applied Math seminar",
+        "location":"Drexel University, Philadelphia, PA, United States",
+        "url":"https://www.math.drexel.edu/~cf823/pde_seminar/index.html",
+        "date":"Feb 10, 2023"
+      },
+      {
         "title":"Waves Working Group",
-        "location":"Columbia University, New York, United States",
+        "location":"Columbia University, New York, NY, United States",
         "date":"Oct 12 and 26, Nov 16, 2022"
       },
       {
@@ -315,12 +321,12 @@
       },
       {
         "title":"Waves Working Group",
-        "location":"Columbia University, New York, United States",
+        "location":"Columbia University, New York, NY, United States",
         "date":"Oct 27 and Nov 3, 2021"
       },
       {
         "title":"Geometry & Analysis Seminar",
-        "location":"Columbia University, New York, United States",
+        "location":"Columbia University, New York, NY, United States",
         "url":"https://www.math.columbia.edu/~johne/seminar_geometry_analysis.html",
         "date":"Sep 17, 2021"
       },
