@@ -153,7 +153,7 @@
         "url":"https://arxiv.org/abs/2207.04298"
       },
       {
-        "company":"Free boundary problem for a gas bubble in a liquid, and asymptotic stability of the manifold of spherically symmetric equilibria",
+        "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
         "years":"submitted, arXiv:2207.04079, 2022",
@@ -296,6 +296,12 @@
       }
     ],
     "present":[
+      {
+        "title":"Michael Zhao Memorial Student Colloquium",
+        "location":"Columbia University, New York, NY, United States",
+        "url":"https://math.columbia.edu/~scheffelin/michael_zhao",
+        "date":"Mar 8, 2023"
+      },
       {
         "title":"Drexel PDE/Applied Math seminar",
         "location":"Drexel University, Philadelphia, PA, United States",
