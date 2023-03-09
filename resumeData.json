@@ -94,10 +94,18 @@
     ],
     "research":[
       {
+        "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
+        "publisher":"Math. Ann.",
+        "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2207.04298"
+      },
+      {
         "company":"The Green tensor of the nonstationary Stokes system in the half space",
         "publisher":"Commun. Math. Phys.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"to appear",
+        "years":"(2023) https://doi.org/10.1007/s00220-022-04623-3",
         "description":"",
         "url":"https://link.springer.com/article/10.1007/s00220-022-04623-3"
       },
@@ -113,9 +121,9 @@
         "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
         "publisher":"Indiana Univ. Math. J.",
         "authors":"C.-C. Lai, Juncheng Wei, and Yifu Zhou",
-        "years":"to appear",
+        "years":"(2023) https://doi.org/10.1512/iumj.2023.72.9304",
         "description":"",
-        "url":"http://www.iumj.indiana.edu/IUMJ/Preprints/9304.pdf"
+        "url":"https://doi.org/10.1512/iumj.2023.72.9304"
       },
       {
         "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two",
@@ -145,18 +153,10 @@
 
     "preprints":[
       {
-        "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
-        "publisher":"arXiv Preprint",
-        "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"submitted, arXiv:2207.04298, 2022",
-        "description":"",
-        "url":"https://arxiv.org/abs/2207.04298"
-      },
-      {
         "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"submitted, arXiv:2207.04079, 2022",
+        "years":"submitted, arXiv:2207.04079, 2023",
         "description":"",
         "url":"https://arxiv.org/abs/2207.04079"
       },
