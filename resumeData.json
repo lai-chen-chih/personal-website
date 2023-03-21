@@ -265,9 +265,15 @@
     ],
     "talks":[
       {
+        "title":"Special Session on Dynamics of Partial Differential Equations, AMS Spring Southeastern Sectional Meeting",
+        "location":"Georgia Institute of Technology, Atlanta GA, United States",
+        "url":"https://www.ams.org/meetings/sectional/2298_program_ss18.html#title",
+        "date":"Mar 18, 2023"
+      },
+      {
         "title":"Special Session on Recent Advances in the Theory of Fluid Dynamics, AMS Fall Western Sectional Meeting",
         "location":"University of Utah, Salt Lake City, UT, United States",
-        "url":"https://www.ams.org/meetings/sectional/2295_program_ss17.html",
+        "url":"https://www.ams.org/meetings/sectional/2295_program_ss17.html#title",
         "date":"Oct 22, 2022"
       },
       {
@@ -303,7 +309,7 @@
         "date":"Mar 8, 2023"
       },
       {
-        "title":"Drexel PDE/Applied Math seminar",
+        "title":"Drexel PDE/Applied Math Seminar",
         "location":"Drexel University, Philadelphia, PA, United States",
         "url":"https://www.math.drexel.edu/~cf823/pde_seminar/index.html",
         "date":"Feb 10, 2023"
