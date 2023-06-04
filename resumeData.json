@@ -373,7 +373,16 @@
         "date":"Nov 5, 2015"
       }
     ],
-
+    "organize":[
+      {
+        "company":"Free Boundary Problems: Lecture Series and Recent Advances in Theory and Applications",
+        "publisher":"Columbia University, New York, NY, United States",
+        "authors":"Daniela De Silva, Qiang Du, C.-C. Lai, Kui Ren, Ovidiu Savin, James Scott, Michael Weinstein",
+        "years":"May 30 – June 2, 2023",
+        "description":"Supported by NSF-RTG Grant and Simons Foundation",
+        "url":"https://sites.google.com/view/2023columbiafreeboundary/home?authuser=0"
+      }
+    ],
     "skills":[
       {
         "name":"Git",
