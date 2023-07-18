@@ -153,6 +153,14 @@
 
     "preprints":[
       {
+        "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two",
+        "publisher":"arXiv Preprint",
+        "authors":"Fanze Kong, C.-C. Lai, and Juncheng Wei",
+        "years":"submitted, arXiv:2307.08295, 2023",
+        "description":"",
+        "url":"https://arxiv.org/abs/2307.08295"
+      },
+      {
         "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
@@ -179,24 +187,29 @@
     ],
     "awards":[
       {
+        "title":"AMS-Simons Travel Grant",
+        "date": "2023 – 2024",
+        "location":"The American Mathematical Society and Simons Foundation (mentor: Michael I. Weinstein)"
+      },
+      {
         "title":"President's Academic Excellence Initiative PhD Award",
-        "date": "2020-2021",
-        "location":"The University of British Columbia, Vancouver, Canada" 
+        "date": "2020 – 2021",
+        "location":"The University of British Columbia" 
       },
       {
         "title":"Stanley M Grant Scholarship in Mathematics",
         "date": "2019",
-        "location":"The University of British Columbia, Vancouver, Canada" 
+        "location":"The University of British Columbia" 
       },
       {
         "title":"Four Year Fellowship For PHD Students (FYF)",
-        "date": "2017-2021",
-        "location":"The University of British Columbia, Vancouver, Canada"
+        "date": "2017 – 2021",
+        "location":"The University of British Columbia"
       },
       {
         "title":"Four Year Doctoral Fellowship (4YF)",
-        "date": "2017-2021",
-        "location":"The University of British Columbia, Vancouver, Canada"
+        "date": "2017 – 2021",
+        "location":"The University of British Columbia"
       },
       {
         "title":"TMS Thesis Award",
@@ -206,7 +219,7 @@
       {
         "title":"Dean's Award",
         "date": "2016",
-        "location":"National Taiwan University, Taipei, Taiwan" 
+        "location":"National Taiwan University" 
       }
     ],
     "teaching":[
