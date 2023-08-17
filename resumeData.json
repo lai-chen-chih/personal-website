@@ -94,6 +94,14 @@
     ],
     "research":[
       {
+        "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
+        "publisher":"Arch. Ration. Mech. Anal.",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2207.04079"
+      },
+      {
         "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
         "publisher":"Math. Ann.",
         "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
@@ -167,14 +175,6 @@
         "years":"submitted, arXiv:2305.03569, 2023",
         "description":"",
         "url":"https://arxiv.org/abs/2305.03569"
-      },
-      {
-        "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
-        "publisher":"arXiv Preprint",
-        "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"submitted, arXiv:2207.04079, 2023",
-        "description":"",
-        "url":"https://arxiv.org/abs/2207.04079"
       },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
@@ -366,7 +366,6 @@
       {
         "title":"Differential Equations Seminar",
         "location":"University of Michigan, online",
-        "url":"http://www.math.lsa.umich.edu/seminars_events/events.php?eventdefid=7&dt_begin=2021-01-01&dt_end=2021-06-30",
         "date":"Feb 18, 2021"
       },
       {
