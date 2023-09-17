@@ -189,17 +189,20 @@
       {
         "title":"AMS-Simons Travel Grant",
         "date": "2023 – 2024",
-        "location":"The American Mathematical Society and Simons Foundation (mentor: Michael I. Weinstein)"
+        "location":"The American Mathematical Society and Simons Foundation (mentor: Michael I. Weinstein)",
+        "url":"https://www.ams.org/programs/travel-grants/AMS-SimonsTG"
       },
       {
         "title":"President's Academic Excellence Initiative PhD Award",
         "date": "2020 – 2021",
-        "location":"The University of British Columbia" 
+        "location":"The University of British Columbia",
+        "url":"https://www.grad.ubc.ca/awards/presidents-academic-excellence-initiative-phd-award" 
       },
       {
         "title":"Stanley M Grant Scholarship in Mathematics",
         "date": "2019",
-        "location":"The University of British Columbia" 
+        "location":"The University of British Columbia",
+        "url":"https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/department-mathematics/4464" 
       },
       {
         "title":"Four Year Fellowship For PHD Students (FYF)",
@@ -209,17 +212,20 @@
       {
         "title":"Four Year Doctoral Fellowship (4YF)",
         "date": "2017 – 2021",
-        "location":"The University of British Columbia"
+        "location":"The University of British Columbia",
+        "url":"https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf"
       },
       {
-        "title":"TMS Thesis Award",
+        "title":"TMS Outstanding Thesis Award",
         "date": "2016",
-        "location":"The Mathematical Society of the Republic of China, Taiwan" 
+        "location":"The Mathematical Society of the Republic of China, Taiwan",
+        "url":"https://www.tms.org.tw/en/modules/pages/paper" 
       },
       {
         "title":"Dean's Award",
         "date": "2016",
-        "location":"National Taiwan University" 
+        "location":"National Taiwan University",
+        "url":"https://www.science.ntu.edu.tw/en/news-en/honor-roll/award-2-1/" 
       }
     ],
     "teaching":[
