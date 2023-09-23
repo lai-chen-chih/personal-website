@@ -94,6 +94,14 @@
     ],
     "research":[
       {
+        "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid",
+        "publisher":"Nonlinear Anal.",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2305.03569"
+      },
+      {
         "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
         "publisher":"Arch. Ration. Mech. Anal.",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
@@ -169,18 +177,10 @@
         "url":"https://arxiv.org/abs/2307.08295"
       },
       {
-        "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid",
-        "publisher":"arXiv Preprint",
-        "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"submitted, arXiv:2305.03569, 2023",
-        "description":"",
-        "url":"https://arxiv.org/abs/2305.03569"
-      },
-      {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
         "publisher":"arXiv Preprint",
         "authors":"Manuel del Pino, C.-C. Lai, Monica Musso, Juncheng Wei, and Yifu Zhou",
-        "years":"submitted, arXiv:2006.00716, 2020", 
+        "years":"arXiv:2006.00716, 2020", 
         "description":"",
         "url":"https://arxiv.org/abs/2006.00716"
       }
