@@ -105,15 +105,15 @@
         "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
         "publisher":"Arch. Ration. Mech. Anal.",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"to appear",
+        "years":"247 (2023), no. 5, 100",
         "description":"",
-        "url":"https://arxiv.org/abs/2207.04079"
+        "url":"https://link.springer.com/article/10.1007/s00205-023-01927-z"
       },
       {
         "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
         "publisher":"Math. Ann.",
         "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"(2023) https://doi.org/10.1007/s00208-023-02607-9",
+        "years":"(2023)",
         "description":"",
         "url":"https://link.springer.com/article/10.1007/s00208-023-02607-9"
       },
@@ -329,6 +329,12 @@
       }
     ],
     "present":[
+      {
+        "title":"Columbia Analysis Seminar",
+        "location":"Columbia University, New York, NY, United States",
+        "url":"https://www.math.columbia.edu/~egiorgi/seminar-ga.html",
+        "date":"Sep 29, 2023"
+      },
       {
         "title":"Michael Zhao Memorial Student Colloquium",
         "location":"Columbia University, New York, NY, United States",
