@@ -51,18 +51,6 @@
         "course": "Columbia University, New York, United States",
         "url":"",
         "date":"Aug 2021 – present"
-      },
-      {
-        "title":"Research Assistant, Mathematics Division",
-        "course": "National Center for Theortical Sciences, Taipei, Taiwan",
-        "url":"",
-        "date":"Aug 2016 – Jul 2017"
-      },
-      {
-        "title":"Assistant Manager, The Lecture Series of the Popularization of Mathematics",
-        "course": "Ministry of Science and Technology, Taipei, Taiwan",
-        "url":"",
-        "date":"Aug 2015 – Jul 2016"
       }
     ],
     "education":[
@@ -76,6 +64,13 @@
         "supervisorUrl": "http://www.math.ubc.ca/~ttsai/",
         "supervisor2": "Juncheng Wei",
         "supervisorUrl2": "https://www.math.ubc.ca/~jcwei/"
+      },
+      {
+        "school": "National Center for Theortical Sciences, Taipei, Taiwan",
+        "degree":"Research Assistant, Mathematics Division",
+        "graduated":"Aug 2016 – Jul 2017",
+        "supervisors": "Chun-Hsiung Hsia",
+        "supervisorUrl": "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21478"
       },
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -402,9 +397,16 @@
         "company":"Free Boundary Problems: Lecture Series and Recent Advances in Theory and Applications",
         "publisher":"Columbia University, New York, NY, United States",
         "authors":"Daniela De Silva, Qiang Du, C.-C. Lai, Kui Ren, Ovidiu Savin, James Scott, Michael Weinstein",
-        "years":"May 30 – June 2, 2023",
+        "years":"May 30 – Jun 2, 2023",
         "description":"Supported by NSF-RTG Grant and Simons Foundation",
         "url":"https://sites.google.com/view/2023columbiafreeboundary/home?authuser=0"
+      },
+      {
+        "company":"Mathematics Lecture Series on Everyday Life and Technology",
+        "publisher":"Ministry of Science and Technology, Taiwan",
+        "authors":"Chun-Hsiung Hsia",
+        "years":"Aug 2015 – Jul 2016",
+        "description":"Served as an Administrative Assistant"
       }
     ],
     "skills":[
