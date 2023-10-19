@@ -70,7 +70,7 @@
         "degree":"Research Assistant, Mathematics Division",
         "graduated":"Aug 2016 – Jul 2017",
         "supervisors": "Chun-Hsiung Hsia",
-        "supervisorUrl": "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21478"
+        "supervisorUrl": "https://ncts.ntu.edu.tw/people_detail.php?gid=122&bgid=4"
       },
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -406,7 +406,8 @@
         "publisher":"Ministry of Science and Technology, Taiwan",
         "authors":"Chun-Hsiung Hsia",
         "years":"Aug 2015 – Jul 2016",
-        "description":"Served as an Administrative Assistant"
+        "description":"Served as an Administrative Assistant",
+        "url":"https://www.facebook.com/mathtalks2015/"
       }
     ],
     "skills":[
