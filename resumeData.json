@@ -89,6 +89,14 @@
     ],
     "research":[
       {
+        "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two",
+        "publisher":"J. Differential Equations",
+        "authors":"Fanze Kong, C.-C. Lai, and Juncheng Wei",
+        "years":"to appear",
+        "description":"",
+        "url":"https://arxiv.org/abs/2307.08295"
+      },
+      {
         "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid",
         "publisher":"Nonlinear Anal.",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
@@ -163,14 +171,6 @@
     ],
 
     "preprints":[
-      {
-        "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two",
-        "publisher":"arXiv Preprint",
-        "authors":"Fanze Kong, C.-C. Lai, and Juncheng Wei",
-        "years":"submitted, arXiv:2307.08295, 2023",
-        "description":"",
-        "url":"https://arxiv.org/abs/2307.08295"
-      },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
         "publisher":"arXiv Preprint",
@@ -287,6 +287,11 @@
     ],
     "talks":[
       {
+        "title":"Special Session on Recent Developments in the Study of Free Boundary Problems in Fluid Mechanics, AMS Spring Eastern Sectional Meeting",
+        "location":"Howard University, Washington, DC, United States",
+        "date":"Apr 7, 2024"
+      },
+      {
         "title":"AMS Special Session on Dynamics and Regularity of PDEs, Joint Mathematics Meetings",
         "location":"San Francisco, CA, United States",
         "date":"Jan 5, 2024"
@@ -335,7 +340,7 @@
     ],
     "present":[
       {
-        "title":"Colloquium",
+        "title":"Math Department Colloquium",
         "location":"University of Florida, Gainesville, FL, United States",
         "date":"Jan 26, 2024"
       },
