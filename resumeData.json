@@ -287,6 +287,12 @@
     ],
     "talks":[
       {
+        "title":"Nonlinear Partial Differential Equations and Applications, In honor of Bob Pego",
+        "location":"Carnegie Mellon University, Pittsburgh, PA, United States",
+        "url":"https://www.math.cmu.edu/~gautam/2024-bobconf/",
+        "date":"May 4, 2024"
+      },
+      {
         "title":"Special Session on Recent Developments in the Study of Free Boundary Problems in Fluid Mechanics, AMS Spring Eastern Sectional Meeting",
         "location":"Howard University, Washington, DC, United States",
         "url":"https://www.ams.org/meetings/sectional/2312_program_ss45.html#title",
