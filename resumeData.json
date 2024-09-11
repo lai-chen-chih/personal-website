@@ -6,14 +6,14 @@
     "description":"",
     "image":"chen.png",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Email: cl4205 at columbia dot edu",
-    "office": "307A Mathematics",
+    "email": "Email: cclai.math@gmail.com",
+    "office": "Email: cl4205@columbia.edu",
     "address":{
-      "department":"Department of Mathematics, Columbia University",
-      "street":"2990 Broadway",
-      "city":"New York",
-      "state":"NY",
-      "zip": "10027"
+      "department":"",
+      "street":"",
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98109"
     },
     "aboutMe": "",
     "social":[
@@ -50,7 +50,7 @@
         "title":"Postdoctoral Research Scientist, Department of Mathematics",
         "course": "Columbia University, New York, United States",
         "url":"",
-        "date":"Aug 2021 – present"
+        "date":"Aug 2021 – July 2024"
       }
     ],
     "education":[
