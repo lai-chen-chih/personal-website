@@ -364,6 +364,18 @@
     ],
     "present":[
       {
+        "title":"Applied and Computational Mathematics Seminar",
+        "location":"Rutgers University, online",
+        "url":"https://sites.rutgers.edu/acm-seminar/",
+        "date":"Oct 18, 2024"
+      },
+      {
+        "title":"DG MP PDE Seminar",
+        "location":"The University of British Columbia, online",
+        "url":"https://www.math.ubc.ca/events/sep-22-2024-thermal-effects-deformation-gas-bubble-incompressible-fluid",
+        "date":"Oct 10, 2024"
+      },
+      {
         "title":"Academic Lecture on Frontier Intelligent Complex Systems",
         "location":"Fudan University, online",
         "url":"https://iics.fudan.edu.cn/71/d0/c43571a684496/page.htm",
