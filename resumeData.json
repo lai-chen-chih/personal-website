@@ -89,6 +89,14 @@
     ],
     "research":[
       {
+        "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space",
+        "publisher":"SIAM J. Math. Anal.",
+        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
+        "years":"to appear", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2407.07001"
+      },
+      {
         "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two",
         "publisher":"J. Differential Equations",
         "authors":"Fanze Kong, C.-C. Lai, and Juncheng Wei",
@@ -178,14 +186,6 @@
         "years":"arXiv:2408.03787, 2024", 
         "description":"",
         "url":"https://arxiv.org/abs/2408.03787"
-      },
-      {
-        "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space",
-        "publisher":"submitted",
-        "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"arXiv:2407.07001, 2024", 
-        "description":"",
-        "url":"https://arxiv.org/abs/2407.07001"
       },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
