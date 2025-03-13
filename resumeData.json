@@ -89,6 +89,14 @@
     ],
     "research":[
       {
+        "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible fluid",
+        "publisher":"SIAM J. Appl. Math",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"to appear", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2408.03787"
+      },
+      {
         "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space",
         "publisher":"SIAM J. Math. Anal.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
@@ -179,14 +187,6 @@
     ],
 
     "preprints":[
-      {
-        "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible fluid",
-        "publisher":"submitted",
-        "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"arXiv:2408.03787, 2024", 
-        "description":"",
-        "url":"https://arxiv.org/abs/2408.03787"
-      },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
         "publisher":"arXiv Preprint",
@@ -303,6 +303,12 @@
     ],
     "talks":[
       {
+        "title":"Recent Development on Free Surface Flows, The Thirteenth  International Conference on Nonlinear Evolution Equations and Wave Phenomena: Computation and Theory",
+        "location":"The Classic Center, Athens, GA, United States",
+        "url":"https://waves2025.uga.edu//",
+        "date":"Apr 16, 2025"
+      },
+      {
         "title":"Nonlinear Partial Differential Equations and Applications, In honor of Bob Pego",
         "location":"Carnegie Mellon University, Pittsburgh, PA, United States",
         "url":"https://www.math.cmu.edu/~gautam/2024-bobconf/",
@@ -363,6 +369,12 @@
       }
     ],
     "present":[
+      {
+        "title":"Applied Math Colloquium",
+        "location":"Rochester Institute of Technology, Rochester, NY, United States",
+        "url":"",
+        "date":"Feb 12, 2025"
+      },
       {
         "title":"Mathematical Sciences Department Colloquium",
         "location":"Worcester Polytechnic Institute, Worcester, MA, United States",
