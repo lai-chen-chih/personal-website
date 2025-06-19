@@ -92,15 +92,15 @@
         "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible fluid",
         "publisher":"SIAM J. Appl. Math",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"to appear", 
+        "years":"85(3):1212–1236, 2025", 
         "description":"",
-        "url":"https://arxiv.org/abs/2408.03787"
+        "url":"https://epubs.siam.org/doi/abs/10.1137/24M1683779?journalCode=smjmap"
       },
       {
         "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space",
         "publisher":"SIAM J. Math. Anal.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"57 (2025) no.1, 1137–1194", 
+        "years":"57(1):1137–1194, 2025", 
         "description":"",
         "url":"https://epubs.siam.org/doi/abs/10.1137/24M1675801?journalCode=sjmaah"
       },
@@ -187,6 +187,14 @@
     ],
 
     "preprints":[
+      {
+        "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai",
+        "years":"arXiv:2506.06621, 2025", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2506.06621"
+      },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation",
         "publisher":"arXiv Preprint",
