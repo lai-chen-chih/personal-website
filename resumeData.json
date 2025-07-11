@@ -7,7 +7,7 @@
     "image":"chen.png",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Email: cclai.math@gmail.com",
-    "office": "Email: cl4205@columbia.edu",
+    "office": "",
     "address":{
       "department":"",
       "street":"",
@@ -89,98 +89,98 @@
     ],
     "research":[
       {
-        "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible fluid",
+        "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible flui.",
         "publisher":"SIAM J. Appl. Math",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"85(3):1212–1236, 2025", 
+        "years":"85.3 (2025): 1212–1236", 
         "description":"",
         "url":"https://epubs.siam.org/doi/abs/10.1137/24M1683779?journalCode=smjmap"
       },
       {
-        "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space",
+        "company":"Applications of the Green tensor estimates of the nonstationary Stokes system in the half space.",
         "publisher":"SIAM J. Math. Anal.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"57(1):1137–1194, 2025", 
+        "years":"57.1 (2025): 1137–1194", 
         "description":"",
         "url":"https://epubs.siam.org/doi/abs/10.1137/24M1675801?journalCode=sjmaah"
       },
       {
-        "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two",
+        "company":"Global existence and aggregation of chemotaxis-fluid systems in dimension two.",
         "publisher":"J. Differential Equations",
         "authors":"Fanze Kong, C.-C. Lai, and Juncheng Wei",
-        "years":"400 (2024), 1–89.",
+        "years":"400 (2024): 1–89.",
         "description":"",
         "url":"https://www.sciencedirect.com/science/article/pii/S0022039624002092?dgcid=coauthor"
       },
       {
-        "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces",
+        "company":"Mild solutions and spacetime integral bounds for Stokes and Navier-Stokes flows in Wiener amalgam spaces.",
         "publisher":"Math. Ann.",
         "authors":"Zachary Bradshaw, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"388 (2024), no. 3, 3053–3126.",
+        "years":"388.3 (2024): 3053–3126.",
         "description":"",
         "url":"https://link.springer.com/article/10.1007/s00208-023-02607-9"
       },
       {
-        "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid",
+        "company":"Thermal relaxation toward equilibrium and periodically pulsating spherical bubbles in an incompressible liquid.",
         "publisher":"Nonlinear Anal.",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"238 (2024), Paper No. 113397, 35 pp.",
+        "years":"238 (2024): 113397.",
         "description":"",
         "url":"https://www.sciencedirect.com/science/article/pii/S0362546X2300189X?dgcid=author"
       },
       {
-        "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria",
+        "company":"Free boundary problem for a gas bubble in a liquid, and exponential stability of the manifold of spherically symmetric equilibria.",
         "publisher":"Arch. Ration. Mech. Anal.",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"247 (2023), no. 5, Paper No. 100, 87 pp.",
+        "years":"247.5 (2023): 100.",
         "description":"",
         "url":"https://link.springer.com/article/10.1007/s00205-023-01927-z"
       },
       {
-        "company":"The Green tensor of the nonstationary Stokes system in the half space",
+        "company":"The Green tensor of the nonstationary Stokes system in the half space.",
         "publisher":"Comm. Math. Phys.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"399 (2023), no. 2, 1291–1372.",
+        "years":"399.2 (2023): 1291–1372.",
         "description":"",
         "url":"https://link.springer.com/article/10.1007/s00220-022-04623-3"
       },
       {
-        "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass",
+        "company":"Global existence of free-energy solutions to the 2D Patlak–Keller–Segel–Navier–Stokes system with critical and subcritical mass.",
         "publisher":"Indiana Univ. Math. J.",
         "authors":"C.-C. Lai, Juncheng Wei, and Yifu Zhou",
-        "years":"72 (2023), no. 1, 43–87.",
+        "years":"72.1 (2023): 43–87.",
         "description":"",
         "url":"https://doi.org/10.1512/iumj.2023.72.9304"
       },
       {
-        "company":"Finite energy Navier–Stokes flows with unbounded gradients induced by localized flux in the half-space",
+        "company":"Finite energy Navier–Stokes flows with unbounded gradients induced by localized flux in the half-space.",
         "publisher":"Trans. Amer. Math. Soc.",
         "authors":"Kyungkeun Kang, Baishun Lai, C.-C. Lai, and Tai-Peng Tsai",
-        "years":"375 (2022), no. 9, 6701–6746.",
+        "years":"375.09 (2022): 6701–6746.",
         "description":"",
         "url":"https://www.ams.org/journals/tran/2022-375-09/S0002-9947-2022-08739-0/home.html"
       },
       {
-        "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two",
+        "company":"Finite time blow-up for the nematic liquid crystal flow in dimension two.",
         "authors":"C.-C. Lai, Fanghua Lin, Changyou Wang, Juncheng Wei, and Yifu Zhou",
         "publisher":"Comm. Pure Appl. Math.",
-        "years":"75 (2022), no.1, 128–196.",
+        "years":"75.1 (2022): 128–196.",
         "description":"",
         "url":"https://onlinelibrary.wiley.com/doi/10.1002/cpa.21993"
       },
       {
-        "company":"Forward discretely self-similar solutions of the MHD equations and the viscoelastic Navier–Stokes equations with damping",
+        "company":"Forward discretely self-similar solutions of the MHD equations and the viscoelastic Navier–Stokes equations with damping.",
         "authors":"C.-C. Lai",
         "publisher":"J. Math. Fluid Mech.",
-        "years":"21 (2019), no. 3, Art. 38, 28 pp.",
+        "years":"21.3 (2019): 38",
         "description":"",
         "url":"https://link.springer.com/article/10.1007%2Fs00021-019-0443-4"
       },
       {
-        "company":"An N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics",
+        "company":"An N-barrier maximum principle for autonomous systems of n species and its application to problems arising from population dynamics.",
         "authors":"Chiun-Chuan Chen, Li-Chang Hung, and C.-C. Lai",
         "publisher":"Commun. Pure Appl. Anal.",
-        "years":"18 (2019), no. 1, 33–50.",
+        "years":"18.1 (2019): 33–50.",
         "description":"",
         "url":"http://aimsciences.org//article/doi/10.3934/cpaa.2019003"
       }
@@ -188,18 +188,18 @@
 
     "preprints":[
       {
-        "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces",
+        "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces.",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai",
-        "years":"arXiv:2506.06621, 2025", 
+        "years":"arXiv:2506.06621 (2025)", 
         "description":"",
         "url":"https://arxiv.org/abs/2506.06621"
       },
       {
-        "company":"New type II finite time blow-up for the energy supercritical heat equation",
+        "company":"New type II finite time blow-up for the energy supercritical heat equation.",
         "publisher":"arXiv Preprint",
         "authors":"Manuel del Pino, C.-C. Lai, Monica Musso, Juncheng Wei, and Yifu Zhou",
-        "years":"arXiv:2006.00716, 2020", 
+        "years":"arXiv:2006.00716 (2020)", 
         "description":"",
         "url":"https://arxiv.org/abs/2006.00716"
       }
