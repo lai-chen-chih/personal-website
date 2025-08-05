@@ -188,6 +188,22 @@
 
     "preprints":[
       {
+        "company":"Moment estimate and variational approach for learning generalized diffusion with non-gradient structures.",
+        "publisher":"arXiv Preprint",
+        "authors":"Fanze Kong, C.-C. Lai, and Yubin Lu",
+        "years":"arXiv:2508.01854 (2025)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2508.01854"
+      },
+      {
+        "company":"Nonspherically symmetric equilibrium bubbles in a steadily rotating incompressible fluid.",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"arXiv:2507.17915 (2025)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2507.17915"
+      },
+      {
         "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces.",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai",
