@@ -89,6 +89,14 @@
     ],
     "research":[
       {
+        "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces.",
+        "publisher":"J. Differential Equations",
+        "authors":"C.-C. Lai",
+        "years":"to appear", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2506.06621"
+      },
+      {
         "company":"Asymmetric deformations of a perturbed spherical bubble in an incompressible fluid.",
         "publisher":"SIAM J. Appl. Math",
         "authors":"C.-C. Lai, and Michael I. Weinstein",
@@ -202,14 +210,6 @@
         "years":"arXiv:2507.17915 (2025)", 
         "description":"",
         "url":"https://arxiv.org/abs/2507.17915"
-      },
-      {
-        "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces.",
-        "publisher":"arXiv Preprint",
-        "authors":"C.-C. Lai",
-        "years":"arXiv:2506.06621 (2025)", 
-        "description":"",
-        "url":"https://arxiv.org/abs/2506.06621"
       },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation.",
