@@ -196,6 +196,14 @@
 
     "preprints":[
       {
+        "company":"Moment estimates and DeepRitz methods on learning diffusion systems with non-gradient drifts.",
+        "publisher":"arXiv Preprint",
+        "authors":"Fanze Kong, C.-C. Lai, and Yubin Lu",
+        "years":"arXiv:2509.10495 (2025)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2509.10495"
+      },
+      {
         "company":"Moment estimate and variational approach for learning generalized diffusion with non-gradient structures.",
         "publisher":"arXiv Preprint",
         "authors":"Fanze Kong, C.-C. Lai, and Yubin Lu",
