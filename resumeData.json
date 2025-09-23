@@ -196,6 +196,14 @@
 
     "preprints":[
       {
+        "company":"Joint inviscid, incompressible, and continuous phenotype limit in nonlocal models of tissue growth.",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, and Hongbo Lu",
+        "years":"arXiv:2509.16416 (2025)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2509.16416"
+      },
+      {
         "company":"Moment estimates and DeepRitz methods on learning diffusion systems with non-gradient drifts.",
         "publisher":"arXiv Preprint",
         "authors":"Fanze Kong, C.-C. Lai, and Yubin Lu",
