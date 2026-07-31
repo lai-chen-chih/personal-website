@@ -6,14 +6,14 @@
     "description":"",
     "image":"chen.png",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Email: cclai.math@gmail.com",
+    "email": "Email: clai@mtsu.edu",
     "office": "",
     "address":{
       "department":"",
       "street":"",
-      "city":"Seattle",
-      "state":"WA",
-      "zip": "98109"
+      "city":"Murfreesboro",
+      "state":"TN",
+      "zip": "37132"
     },
     "aboutMe": "",
     "social":[
@@ -47,10 +47,22 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "employment":[
       {
+        "title":"Assistant Professor, Department of Mathematical Sciences",
+        "course": "Middle Tennessee State University, Murfreesboro, United States",
+        "url":"",
+        "date":"Aug 2026 – present"
+      },
+      {
+        "title":"Postdoctoral Scholar, Department of Mathematics",
+        "course": "Michigan State University, East Lansing, United States",
+        "url":"",
+        "date":" Jun 2026 – Jul 2026"
+      },
+      {
         "title":"Postdoctoral Research Scientist, Department of Mathematics",
         "course": "Columbia University, New York, United States",
         "url":"",
-        "date":"Aug 2021 – July 2024"
+        "date":"Aug 2021 – Jul 2024"
       }
     ],
     "education":[
@@ -60,17 +72,17 @@
         "graduated":"Sep 2017 – Jul 2021",
         "description":"Study and analysis of some incompressible fluid PDEs: the Navier–Stokes equations in the half space, the MHD and the viscoelastic Navier–Stokes equations, and coupled Keller–Segel-fluid models",
         "url":"https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0400482",
-        "supervisors": "Tai-Peng Tsai",
-        "supervisorUrl": "http://www.math.ubc.ca/~ttsai/",
-        "supervisor2": "Juncheng Wei",
-        "supervisorUrl2": "https://www.math.ubc.ca/~jcwei/"
+        "advisors": "Tai-Peng Tsai",
+        "advisorUrl": "http://www.math.ubc.ca/~ttsai/",
+        "advisor2": "Juncheng Wei",
+        "advisorUrl2": "https://www.math.ubc.ca/~jcwei/"
       },
       {
         "school": "National Center for Theortical Sciences, Taipei, Taiwan",
         "degree":"Research Assistant, Mathematics Division",
         "graduated":"Aug 2016 – Jul 2017",
-        "supervisors": "Chun-Hsiung Hsia",
-        "supervisorUrl": "https://ncts.ntu.edu.tw/people_detail.php?gid=122&bgid=4"
+        "advisors": "Chun-Hsiung Hsia",
+        "advisorUrl": "https://ncts.ntu.edu.tw/people_detail.php?gid=122&bgid=4"
       },
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -78,8 +90,8 @@
         "graduated":"Sep 2014 – Jun 2016",
         "description":"On the N-barrier maximum principle for traveling wave solutions of diffusive competitive Lotka–Volterra system",
         "url":"https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1907201610415200",
-        "supervisors": "Chun-Hsiung Hsia",
-        "supervisorUrl": "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21478"
+        "advisors": "Chun-Hsiung Hsia",
+        "advisorUrl": "http://www.math.ntu.edu.tw/en/entity_people/entity_people/21478"
       }, 
       {
         "school":"National Taiwan University, Taipei, Taiwan",
@@ -89,10 +101,18 @@
     ],
     "research":[
       {
+        "company":"Nonspherically symmetric equilibrium bubbles in a steadily rotating incompressible fluid.",
+        "publisher":"Nonlinearity",
+        "authors":"C.-C. Lai, and Michael I. Weinstein",
+        "years":"39.3 (2025): 035012", 
+        "description":"",
+        "url":"https://iopscience.iop.org/article/10.1088/1361-6544/ae4938/meta"
+      },
+      {
         "company":"Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces.",
         "publisher":"J. Differential Equations",
         "authors":"C.-C. Lai",
-        "years":"452 (2026), to appear", 
+        "years":"452 (2026): 113777", 
         "description":"",
         "url":"https://www.sciencedirect.com/science/article/pii/S0022039625008046?dgcid=author"
       },
@@ -198,6 +218,14 @@
 
     "preprints":[
       {
+        "company":"Global well-posedness of the 2D stochastic self-consistent Keller-Segel-Navier-Stokes system with subcritical cellular mass.",
+        "publisher":"arXiv Preprint",
+        "authors":"Fanze Kong, C.-C. Lai, and Krutika Tawri",
+        "years":"arXiv:2605.17114 (2026)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2605.17114"
+      },
+      {
         "company":"Joint inviscid, incompressible, and continuous phenotype limit in nonlocal models of tissue growth.",
         "publisher":"arXiv Preprint",
         "authors":"C.-C. Lai, and Hongbo Lu",
@@ -220,14 +248,6 @@
         "years":"arXiv:2508.01854 (2025)", 
         "description":"",
         "url":"https://arxiv.org/abs/2508.01854"
-      },
-      {
-        "company":"Nonspherically symmetric equilibrium bubbles in a steadily rotating incompressible fluid.",
-        "publisher":"arXiv Preprint",
-        "authors":"C.-C. Lai, and Michael I. Weinstein",
-        "years":"arXiv:2507.17915 (2025)", 
-        "description":"",
-        "url":"https://arxiv.org/abs/2507.17915"
       },
       {
         "company":"New type II finite time blow-up for the energy supercritical heat equation.",
@@ -345,6 +365,12 @@
     ],
     "talks":[
       {
+        "title":"Machine Learning and the Physical Sciences Workshop (ML4PS), The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)",
+        "location":"San Diego Convention Center, San Diego, CA, United States",
+        "url":"https://ml4physicalsciences.github.io/2025/",
+        "date":"Dec 6, 2025"
+      },
+      {
         "title":"Recent Development on Free Surface Flows, The Thirteenth  International Conference on Nonlinear Evolution Equations and Wave Phenomena: Computation and Theory",
         "location":"The Classic Center, Athens, GA, United States",
         "url":"https://waves2025.uga.edu//",
@@ -411,6 +437,36 @@
       }
     ],
     "present":[
+      {
+        "title":"Research Talk",
+        "location":"Georgia Southern University, Statesboro, GA, United States",
+        "url":"",
+        "date":"Feb 12, 2026"
+      },
+      {
+        "title":"Research Talk",
+        "location":"Old Dominion University, Norfolk, VA, United States",
+        "url":"",
+        "date":"Feb 10, 2026"
+      },
+      {
+        "title":"Mathematical Sciences Colloquium",
+        "location":"The University of Texas at Dallas, Richardson, TX, United States",
+        "url":"",
+        "date":"Feb 5, 2026"
+      },
+      {
+        "title":"Colloquium Talk",
+        "location":"Middle Tennessee State University, Murfreesboro, TN, United States",
+        "url":"",
+        "date":"Feb 3, 2026"
+      },
+      {
+        "title":"Faculty Interview Talk",
+        "location":"University of Oklahoma, Norman, OK, United States",
+        "url":"",
+        "date":"Jan 29, 2026"
+      },
       {
         "title":"Applied Math Colloquium",
         "location":"Rochester Institute of Technology, Rochester, NY, United States",
