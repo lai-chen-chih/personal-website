@@ -2,15 +2,17 @@
   "main": {
     "name":"Chen-Chih Lai",
     "chname":"賴承志",
-    "occupation":"Postdoctoral Research Scientist at Columbia University",
+    "occupation":"Assistant Professor at Middle Tennessee State University",
     "description":"",
     "image":"chen.png",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Email: clai@mtsu.edu",
-    "office": "",
+    "email": "Email: clai at mtsu.edu",
+    "office": "Office: [TBA]",
+    "phone": "Phone: [TBA]",
     "address":{
-      "department":"",
-      "street":"",
+      "department":"Department of Mathematical Sciences",
+      "affiliation":"Middle Tennessee State University",
+      "street":"1301 E Main St, MTSU Box [TBA]",
       "city":"Murfreesboro",
       "state":"TN",
       "zip": "37132"
