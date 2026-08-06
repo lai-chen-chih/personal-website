@@ -8,7 +8,7 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Email: clai at mtsu.edu",
     "office": "Office: KOM 122-A",
-    "phone": "Phone: [TBA]",
+    "phone": "Phone: (615)898-5471",
     "address":{
       "department":"Department of Mathematical Sciences",
       "affiliation":"Middle Tennessee State University",
@@ -263,7 +263,7 @@
     "awards":[
       {
         "title":"AMS-Simons Travel Grant",
-        "date": "2023 – pres.",
+        "date": "2023 – 2025",
         "location":"The American Mathematical Society and Simons Foundation (mentor: Michael I. Weinstein)",
         "url":"https://www.ams.org/programs/travel-grants/AMS-SimonsTG"
       },
@@ -304,6 +304,18 @@
       }
     ],
     "teaching":[
+      {
+        "title":"Instructor",
+        "course": "MATH 2010: Elements of Linear Algebra at MTSU",
+        "url":"",
+        "date":"Fall, 2026"
+      },
+      {
+        "title":"Instructor",
+        "course": "MATH 3120: Differential Equations I at MTSU",
+        "url":"",
+        "date":"Fall, 2026"
+      },
       {
         "title":"Instructor",
         "course": "MATH UN1201: Calculus III at Columbia U",
@@ -654,6 +666,11 @@
         "title": "Math Seminar",
         "image": "researchseminars.jpg",
         "url": "https://researchseminars.org"
+      },
+      {
+        "title":"MTSU Department of Mathematical Sciences",
+        "image":"MTSU-math.png",
+        "url":"https://math.mtsu.edu"
       },
       {
         "title":"Columbia Department of Applied Physics and Applied Mathematics",
