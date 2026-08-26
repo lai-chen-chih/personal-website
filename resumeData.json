@@ -305,74 +305,74 @@
     ],
     "teaching":[
       {
-        "title":"Instructor",
-        "course": "MATH 2010: Elements of Linear Algebra at MTSU",
+        "title":"MATH 2010: Elements of Linear Algebra at MTSU",
+        "course": "Instructor",
         "url":"",
         "date":"Fall, 2026"
       },
       {
-        "title":"Instructor",
-        "course": "MATH 3120: Differential Equations I at MTSU",
+        "title":"MATH 3120: Differential Equations I at MTSU",
+        "course": "Instructor",
         "url":"",
         "date":"Fall, 2026"
       },
       {
-        "title":"Instructor",
-        "course": "MATH UN1201: Calculus III at Columbia U",
+        "title":"MATH UN1201: Calculus III at Columbia U",
+        "course": "Instructor",
         "url":"",
         "date":"Spring, 2023"
       },
       {
-        "title":"Instructor",
-        "course": "MATH UN2500: Analysis and Optimization at Columbia U",
+        "title":"MATH UN2500: Analysis and Optimization at Columbia U",
+        "course": "Instructor",
         "url":"",
         "date":"Fall, 2022"
       },
       {
-        "title":"Instructor",
-        "course": "MATH UN1201: Calculus III at Columbia U",
+        "title":"MATH UN1201: Calculus III at Columbia U",
+        "course": "Instructor",
         "url":"",
         "date":"Spring, 2022"
       },
       {
-        "title":"Instructor",
-        "course": "MATH UN1201: Calculus III at Columbia U",
+        "title":"MATH UN1201: Calculus III at Columbia U",
+        "course": "Instructor",
         "url":"",
         "date":"Fall, 2021"
       },
       {
-        "title":"Instructor",
-        "course": "MATH 110: Differential Calculus at UBC",
+        "title":"MATH 110: Differential Calculus at UBC",
+        "course": "Instructor",
         "url":"",
         "date":"Winter 2, 2019"
       },
       {
-        "title":"Recitation Instructor",
-        "course": "MATH 180: Differential Calculus with Physical Applications at UBC",
+        "title":"MATH 180: Differential Calculus with Physical Applications at UBC",
+        "course": "Recitation Instructor",
         "url":"",
         "date":"Winter 1, 2019"
       },
       {
-        "title":"Workshop Leader",
-        "course":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences at UBC",
+        "title":"MATH 184: Differential Calculus with Applications to Commerce and Social Sciences at UBC",
+        "course":"Workshop Leader",
         "url":"",
         "date":"Winter 1, 2018"
       },
       {
-        "title":"Computing Labs Teaching Assistant",
-        "course":"MATH 152: Linear Systems at UBC",
+        "title":"MATH 152: Linear Systems at UBC",
+        "course":"Computing Labs Teaching Assistant",
         "url":"",
         "date":"Winter 2, 2017"
       },
       {
-        "title":"Recitation Instructor",
-        "course":"MATH 1203-1204: Calculus (General Mathematics)(b) at NTU",
+        "title":"MATH 1203-1204: Calculus (General Mathematics)(b) at NTU",
+        "course":"Recitation Instructor",
         "url":"",
         "date":"Fall 2014 – Spring 2015"
       },
       {
-        "title":"Recitation Instructor",
-        "course":"MATH 3201: Functions of a Complex Variable at NTU",
+        "title":"MATH 3201: Functions of a Complex Variable at NTU",
+        "course":"Recitation Instructor",
         "url":"",
         "date":"Fall 2014"
       }
