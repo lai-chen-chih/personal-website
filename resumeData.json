@@ -220,6 +220,22 @@
 
     "preprints":[
       {
+        "company":"Discretely self-similar solutions to coupled fluid systems with locally $L^2$ data.",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, and Tai-Peng Tsai",
+        "years":"arXiv:2611.32897 (2026)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2611.32897"
+      },
+      {
+        "company":"Topology-preserving Hodge–Laplacian diffusion on manifolds with boundary.",
+        "publisher":"arXiv Preprint",
+        "authors":"C.-C. Lai, Sean Cottrell, and Guo-Wei Wei",
+        "years":"arXiv:2611.28363 (2026)", 
+        "description":"",
+        "url":"https://arxiv.org/abs/2611.28363"
+      },
+      {
         "company":"Global well-posedness of the 2D stochastic self-consistent Keller-Segel-Navier-Stokes system with subcritical cellular mass.",
         "publisher":"arXiv Preprint",
         "authors":"Fanze Kong, C.-C. Lai, and Krutika Tawri",
@@ -305,39 +321,57 @@
     ],
     "teaching":[
       {
-        "title":"MATH 2010: Elements of Linear Algebra at MTSU",
+        "title":"MATH 6260: Advanced Differential Equations I at MTSU",
         "course": "Instructor",
-        "url":"",
-        "date":"Fall, 2026"
+        "url":"https://mtsu.instructure.com/courses/31779",
+        "date":"Spring, 2027"
       },
       {
         "title":"MATH 3120: Differential Equations I at MTSU",
         "course": "Instructor",
-        "url":"",
+        "url":"https://mtsu.instructure.com/courses/29345",
+        "date":"Spring, 2027"
+      },
+      {
+        "title":"MATH 3120: Differential Equations I at MTSU",
+        "course": "Instructor",
+        "url":"https://mtsu.instructure.com/courses/20657",
+        "date":"Fall, 2026"
+      },
+      {
+        "title":"MATH 2010: Elements of Linear Algebra at MTSU",
+        "course": "Instructor",
+        "url":"https://mtsu.instructure.com/courses/19643",
         "date":"Fall, 2026"
       },
       {
         "title":"MATH UN1201: Calculus III at Columbia U",
         "course": "Instructor",
-        "url":"",
+        "url":"Spring2024_MATH2015.html",
+        "date":"Spring, 2024"
+      },
+      {
+        "title":"MATH UN1201: Calculus III at Columbia U",
+        "course": "Instructor",
+        "url":"Spring2023_MATH1201_002.html",
         "date":"Spring, 2023"
       },
       {
         "title":"MATH UN2500: Analysis and Optimization at Columbia U",
         "course": "Instructor",
-        "url":"",
+        "url":"Fall2022_MATH2500_002.html",
         "date":"Fall, 2022"
       },
       {
         "title":"MATH UN1201: Calculus III at Columbia U",
         "course": "Instructor",
-        "url":"",
+        "url":"Spring2022_MATH1201_004.html",
         "date":"Spring, 2022"
       },
       {
         "title":"MATH UN1201: Calculus III at Columbia U",
         "course": "Instructor",
-        "url":"",
+        "url":"Fall2021_MATH1201_005.html",
         "date":"Fall, 2021"
       },
       {
@@ -454,13 +488,11 @@
       {
         "title":"Research Talk",
         "location":"Georgia Southern University, Statesboro, GA, United States",
-        "url":"",
         "date":"Feb 12, 2026"
       },
       {
         "title":"Research Talk",
         "location":"Old Dominion University, Norfolk, VA, United States",
-        "url":"",
         "date":"Feb 10, 2026"
       },
       {
@@ -472,19 +504,16 @@
       {
         "title":"Colloquium Talk",
         "location":"Middle Tennessee State University, Murfreesboro, TN, United States",
-        "url":"",
         "date":"Feb 3, 2026"
       },
       {
         "title":"Faculty Interview Talk",
         "location":"University of Oklahoma, Norman, OK, United States",
-        "url":"",
         "date":"Jan 29, 2026"
       },
       {
         "title":"Applied Math Colloquium",
         "location":"Rochester Institute of Technology, Rochester, NY, United States",
-        "url":"",
         "date":"Feb 12, 2025"
       },
       {
