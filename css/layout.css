@@ -1028,3 +1028,17 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+/* Research Interests
+-------------------------------------------------- */
+
+.research-interests p {
+   color: #444444;
+   margin-bottom: 18px;
+}
+
+.research-interests strong {
+   color: #313131;
+   font-weight: 700;
+   font-size: 17px;
+}
